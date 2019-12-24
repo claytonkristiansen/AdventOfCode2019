@@ -2,15 +2,11 @@
 //
 
 #include "pch.h"
-#include <iostream>
-#include <fstream>
-#include <list>
+#include "Day1.h"
 
 int main()
 {
-	std::ifstream santaMassListFile;
-	santaMassListFile.open("Masses.txt");
-	std::list<int> massList;
+	return FuelSumWhole();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
