@@ -3,10 +3,11 @@
 
 #include "pch.h"
 #include "Day1.h"
+#include "Day2.h"
 
 int main()
 {
-	return FuelSumWhole();
+	return Guess();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
